@@ -7,7 +7,7 @@ body {
   background-color: #222;
   color: #eee;
 }
-div {
+main {
   width: 650px;
   height: 150px;
   display: flex;
@@ -19,7 +19,7 @@ div {
   padding: 75px 24px;
   transition: 0.2s;
 }
-div:hover {
+main:hover {
   box-shadow: 48px 48px 48px -48px rgba(#000, 0.5);
   transform: scale(1.05);
   transition: 0.2s;
