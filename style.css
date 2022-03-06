@@ -8,7 +8,7 @@ body {
   color: #eee;
 }
 main {
-  width: 650px;
+  width: 50%;
   height: 150px;
   display: flex;
   flex-direction: column;
