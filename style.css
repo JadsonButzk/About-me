@@ -9,7 +9,7 @@ body {
 }
 main {
   width: 50%;
-  height: 150px;
+  height: auto;
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
@@ -26,7 +26,7 @@ main:hover {
   cursor: pointer;
 }
 p {
-  width: 60%;
+  width: 90%;
 }
 p,
 h2 {
