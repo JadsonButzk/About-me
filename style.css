@@ -31,6 +31,8 @@ p {
 p,
 h2 {
   margin: 0;
+  margin-left: 5px;
+  text-align: justify;
 }
 img {
   width: 150px;
